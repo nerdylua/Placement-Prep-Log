@@ -1,7 +1,7 @@
 # Placement-Prep-Log
 
 Concise notes and links for interview prep.
-# Note: It is important to go through the JD and try to prepare for that company, there tends to be a pattern amongst the questions asked, not always though. You'll find these on medium, gfg, blogs, etc
+Note: It is important to go through the JD and try to prepare for that company, there tends to be a pattern amongst the questions asked, not always though. You'll find these on medium, gfg, blogs, etc
 
 Folders:
 - CN — Computer Networks (Link/Network/Transport layers)
