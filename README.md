@@ -12,4 +12,7 @@ Folders:
 - OS — Operating Systems
 - System Design — High-level system design
 
+[Algorithms flashcards](https://github.com/teivah/algodeck), 
+[Leetcode patterns](https://github.com/seanprashad/leetcode-patterns)
+
 Huge thanks to [Manojith Bhat](https://github.com/ManojithBhat) and [Shreenidhi T L](https://github.com/Shree8622) as this is essentially just a culmination of their placement prep repos
